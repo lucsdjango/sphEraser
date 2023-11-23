@@ -377,7 +377,7 @@ class sphEraserLogic(ScriptedLoadableModuleLogic):
             eraSphere.SetRadius(radius)
 
             transformMatrix = vtk.vtkMatrix4x4()
-            transformMatrix.SetElement(2,3, radius-5)
+            transformMatrix.SetElement(0,3, radius-5)
             self.hand.SetMatrixTransformToParent(transformMatrix)
 
     '''

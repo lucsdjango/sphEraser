@@ -21,6 +21,8 @@
 8. Create segmentation from volume.
 9. Create segmentation model from segmentation. (Right click > "Export visible segments ...")
 10. Delete or hide Volume and segment. (For a smoother VR experience.)
-
-
-
+11. Center segmentation model in Slicer's 3D view.
+12. Enable rendering, put on VR headset and hold the right controller.
+13. Navigate by pressing forward/back on the controllers trackpad to move in the direction the controller is pointing. [See the VR extension for further info](https://github.com/KitwareMedical/SlicerVirtualReality), other navigation methods should be available with two controllers.
+14. Left/right on trackpad changes the size of the red sphere.
+15. Place and resize the sphere to cover any geometry you wish to erase, and press the menu button above the trackpad.

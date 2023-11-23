@@ -7,7 +7,8 @@
 1. Install Steam and Steam VR, and setup VR traccking space.
 2. Install latest verison of Slicer 3D's (tested with 5.4.0).
 3. Install [OpenVR2Key](https://github.com/BOLL7708/OpenVR2Key) (tool for mapping VR controller input to keys).
-4. Install Slicer 3D's VR extension, via Slicer 3D's extension manager.
+4. Overwrite default.json in the OpenVR2Key/config/ folder.
+5. Install Slicer 3D's VR extension, via Slicer 3D's extension manager.
 21. Add the sphEraser-main folder (or wherever you clone/download this repo) to "Additional modules paths" under Settings>Modules.
 22. Restart 3D Slicer.
 

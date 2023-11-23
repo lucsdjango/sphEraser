@@ -15,7 +15,7 @@
 ### Every time
 1. Check boxes "Controller Transform" and "HMD transform" in the VR module setttings.
 4. Make sure that the VR extension works, by checking "Connect to hardware" and "Enable rendering"
-5. Make sure that a Transform named VirtualReality.RightController has been created and is visible.
+5. Make sure that a node (only one) named VirtualReality.RightController has been created and is visible.
 6. Stop VR, by unchecking "Enable Rendering".
 7. Load microCT volume.
 8. Create segmentation from volume.

@@ -5,7 +5,7 @@
 ## Instructions
 ### Preparations (do once)
 1. Install Steam and Steam VR, and setup VR traccking space.
-2. Install latest verison of Slicer 3D's (tested with 5.4.0).
+2. Install latest verison of Slicer 3D (tested with 5.7.0).
 3. Install [OpenVR2Key](https://github.com/BOLL7708/OpenVR2Key) (tool for mapping VR controller input to keys).
 4. Overwrite default.json in the OpenVR2Key/config/ folder.
 5. Install Slicer 3D's VR extension, via Slicer 3D's extension manager.
